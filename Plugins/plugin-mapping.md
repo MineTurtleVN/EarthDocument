@@ -15,7 +15,8 @@ Plugin chính: `/plugins/`
 | ExcellentCrates | Crate/key/rewards | [Items/rewards-crates.md](../Items/rewards-crates.md) |
 | ExcellentShop | `/vshop` | [Shops](../Shops/README.md) |
 | PvPManager | Combat/PvP | [PvP/pvp-settings.md](../PvP/pvp-settings.md) |
-| AxKoth | KOTH/event PvP | [PvP/maps-events.md](../PvP/maps-events.md) |
+| AxKoth | KOTH `Địa Bàn`: lịch 12:00/20:00, vùng chiếm, bossbar/scoreboard, thưởng khi chiếm | [PvP/maps-events.md](../PvP/maps-events.md) |
+| TurtleTop | Tracking top Địa Bàn/Thánh Chiến/nạp thẻ/tiền, placeholder top, GUI `/duatop` | [PvP/maps-events.md](../PvP/maps-events.md), [Gui/system-guis.md](../Gui/system-guis.md) |
 | PlayerPoints | Donate/points | [Donate](../Donate/README.md) |
 | LuckPerms | Rank/permissions | [Donate/ranks-vip.md](../Donate/ranks-vip.md) |
 | WorldGuard | Region | [Worlds/regions.md](../Worlds/regions.md) |
